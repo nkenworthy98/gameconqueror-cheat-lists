@@ -1,5 +1,9 @@
 #+TITLE: Gameconqueror Cheat Lists
 
+* Table of Contents :TOC:
+- [[#the-legend-of-heroes-trails-of-cold-steel][The Legend of Heroes: Trails of Cold Steel]]
+- [[#the-legend-of-heroes-zero-no-kiseki][The Legend of Heroes: Zero no Kiseki]]
+
 * The Legend of Heroes: Trails of Cold Steel
 - "Bonding Points"
 - "Earth Sepith"
