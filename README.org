@@ -1,9 +1,17 @@
 #+TITLE: Gameconqueror Cheat Lists
 
 * The Legend of Heroes: Trails of Cold Steel
-- "Current Angler Points"
 - "Bonding Points"
+- "Earth Sepith"
+- "Water Sepith"
+- "Fire Sepith"
+- "Wind Sepith"
+- "Time Sepith"
+- "Space Sepith"
+- "Mirage Sepith"
+- "Sepith Mass"
 - "Mira"
+- "Current Angler Points"
 
 * The Legend of Heroes: Zero no Kiseki
 - "DP (Detective Points)"
