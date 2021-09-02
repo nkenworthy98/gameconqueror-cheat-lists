@@ -6,16 +6,22 @@
 
 * The Legend of Heroes: Trails of Cold Steel
 - "Bonding Points"
+- "Current Angler Points"
 - "Earth Sepith"
-- "Water Sepith"
+- "EXP Elliot"
+- "EXP Elliot"
+- "EXP Gaius"
+- "EXP Gaius"
+- "EXP Rean"
+- "EXP Rean"
 - "Fire Sepith"
-- "Wind Sepith"
-- "Time Sepith"
-- "Space Sepith"
+- "Mira"
 - "Mirage Sepith"
 - "Sepith Mass"
-- "Mira"
-- "Current Angler Points"
+- "Space Sepith"
+- "Time Sepith"
+- "Water Sepith"
+- "Wind Sepith"
 
 * The Legend of Heroes: Zero no Kiseki
 - "DP (Detective Points)"
