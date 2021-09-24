@@ -24,7 +24,7 @@
       "Earth Sepith",
       14227584,
       "int32",
-      "7530",
+      "7890",
       true
     ],
     [
@@ -33,7 +33,7 @@
       "EXP Alisa",
       13761520,
       "int32",
-      "728341",
+      "798703",
       true
     ],
     [
@@ -42,7 +42,7 @@
       "EXP Alisa",
       14221364,
       "int32",
-      "728341",
+      "798703",
       true
     ],
     [
@@ -51,7 +51,7 @@
       "EXP Crow",
       13762240,
       "int32",
-      "188017",
+      "221020",
       true
     ],
     [
@@ -60,7 +60,7 @@
       "EXP Crow",
       14222084,
       "int32",
-      "188017",
+      "221020",
       true
     ],
     [
@@ -87,7 +87,7 @@
       "EXP Emma",
       13761840,
       "int32",
-      "714071",
+      "783053",
       true
     ],
     [
@@ -96,7 +96,7 @@
       "EXP Emma",
       14221684,
       "int32",
-      "714071",
+      "783053",
       true
     ],
     [
@@ -141,7 +141,7 @@
       "EXP Jusis",
       13761920,
       "int32",
-      "619441",
+      "683123",
       true
     ],
     [
@@ -150,7 +150,7 @@
       "EXP Jusis",
       14221764,
       "int32",
-      "619441",
+      "683123",
       true
     ],
     [
@@ -195,7 +195,7 @@
       "EXP Millium",
       14222004,
       "int32",
-      "194861",
+      "230020",
       true
     ],
     [
@@ -204,7 +204,7 @@
       "EXP Millium",
       13762160,
       "int32",
-      "194861",
+      "230020",
       true
     ],
     [
@@ -231,7 +231,7 @@
       "Fire Sepith",
       14227592,
       "int32",
-      "7743",
+      "8079",
       true
     ],
     [
@@ -285,7 +285,25 @@
       "Mirage Sepith",
       14227608,
       "int32",
-      "8288",
+      "8642",
+      true
+    ],
+    [
+      "=",
+      true,
+      "Outside Battle Craft Points - Alisa",
+      14221336,
+      "int16",
+      "200",
+      true
+    ],
+    [
+      "=",
+      true,
+      "Outside Battle Craft Points - Crow",
+      14222056,
+      "int16",
+      "200",
       true
     ],
     [
@@ -299,9 +317,27 @@
     ],
     [
       "=",
+      true,
+      "Outside Battle Craft Points - Emma",
+      14221656,
+      "int16",
+      "200",
+      true
+    ],
+    [
+      "=",
       false,
       "Outside Battle Craft Points - Fie",
       14221816,
+      "int16",
+      "200",
+      true
+    ],
+    [
+      "=",
+      true,
+      "Outside Battle Craft Points - Jusis",
+      14221736,
       "int16",
       "200",
       true
@@ -320,6 +356,15 @@
       false,
       "Outside Battle Craft Points - Machias",
       14221576,
+      "int16",
+      "200",
+      true
+    ],
+    [
+      "=",
+      true,
+      "Outside Battle Craft Points - Millium",
+      14221976,
       "int16",
       "200",
       true
@@ -393,7 +438,7 @@
       "Sepith Mass",
       14227612,
       "int32",
-      "527",
+      "665",
       true
     ],
     [
@@ -402,7 +447,7 @@
       "Space Sepith",
       14227604,
       "int32",
-      "6600",
+      "6954",
       true
     ],
     [
@@ -411,7 +456,7 @@
       "Time Sepith",
       14227600,
       "int32",
-      "4426",
+      "4768",
       true
     ],
     [
@@ -420,7 +465,7 @@
       "Water Sepith",
       14227588,
       "int32",
-      "6321",
+      "6675",
       true
     ],
     [
@@ -429,7 +474,7 @@
       "Wind Sepith",
       14227596,
       "int32",
-      "5762",
+      "6080",
       true
     ]
   ]
