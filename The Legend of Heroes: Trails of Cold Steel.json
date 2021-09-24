@@ -344,18 +344,9 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle EP - Emma",
       14221652,
-      "int16",
-      "940",
-      true
-    ],
-    [
-      "=",
-      false,
-      "Outside Battle EP - Emma",
-      13761808,
       "int16",
       "940",
       true
@@ -402,7 +393,7 @@
       "Sepith Mass",
       14227612,
       "int32",
-      "439",
+      "527",
       true
     ],
     [
@@ -411,7 +402,7 @@
       "Space Sepith",
       14227604,
       "int32",
-      "6556",
+      "6600",
       true
     ],
     [
@@ -420,7 +411,7 @@
       "Time Sepith",
       14227600,
       "int32",
-      "4402",
+      "4426",
       true
     ],
     [
@@ -429,7 +420,7 @@
       "Water Sepith",
       14227588,
       "int32",
-      "6281",
+      "6321",
       true
     ],
     [
@@ -438,7 +429,7 @@
       "Wind Sepith",
       14227596,
       "int32",
-      "5750",
+      "5762",
       true
     ]
   ]
