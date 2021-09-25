@@ -5,56 +5,67 @@
 - [[#the-legend-of-heroes-zero-no-kiseki][The Legend of Heroes: Zero no Kiseki]]
 
 * The Legend of Heroes: Trails of Cold Steel
-- "Bonding Points"
-- "Current Angler Points"
-- "Earth Sepith"
-- "EXP Alisa"
-- "EXP Elliot"
-- "EXP Emma"
-- "EXP Fie"
-- "EXP Gaius"
-- "EXP Jusis"
-- "EXP Laura"
-- "EXP Machias"
-- "EXP Rean"
-- "Fire Sepith"
-- "Master Quartz EXP - Criminal"
-- "Master Quartz EXP - Force"
-- "Mira"
-- "Mirage Sepith"
-- "Outside Battle Craft Points - Elliot"
-- "Outside Battle Craft Points - Fie"
-- "Outside Battle Craft Points - Laura"
-- "Outside Battle Craft Points - Machias"
-- "Outside Battle Craft Points - Rean"
-- "Outside Battle EP - Elliot"
-- "Outside Battle EP - Emma"
-- "Outside Battle EP - Fie"
-- "Outside Battle EP - Laura"
-- "Outside Battle EP - Machias"
-- "Outside Battle EP - Rean"
-- "Sepith Mass"
-- "Space Sepith"
-- "Time Sepith"
-- "Water Sepith"
-- "Wind Sepith"
+- Bonding Points
+- Current Angler Points
+- Earth Sepith
+- EXP Alisa
+- EXP Crow
+- EXP Elliot
+- EXP Emma
+- EXP Fie
+- EXP Gaius
+- EXP Jusis
+- EXP Laura
+- EXP Machias
+- EXP Millium
+- EXP Rean
+- Fire Sepith
+- Master Quartz EXP - Criminal
+- Master Quartz EXP - Force
+- Mira
+- Mirage Sepith
+- Outside Battle Craft Points - Alisa
+- Outside Battle Craft Points - Crow
+- Outside Battle Craft Points - Elliot
+- Outside Battle Craft Points - Emma
+- Outside Battle Craft Points - Fie
+- Outside Battle Craft Points - Jusis
+- Outside Battle Craft Points - Laura
+- Outside Battle Craft Points - Machias
+- Outside Battle Craft Points - Millium
+- Outside Battle Craft Points - Rean
+- Outside Battle EP - Alisa
+- Outside Battle EP - Crow
+- Outside Battle EP - Elliot
+- Outside Battle EP - Emma
+- Outside Battle EP - Fie
+- Outside Battle EP - Jusis
+- Outside Battle EP - Laura
+- Outside Battle EP - Machias
+- Outside Battle EP - Millium
+- Outside Battle EP - Rean
+- Sepith Mass
+- Space Sepith
+- Time Sepith
+- Water Sepith
+- Wind Sepith
 
 * The Legend of Heroes: Zero no Kiseki
-- "DP (Detective Points)"
-- "Earth Sepith"
-- "Elie's CP Outside Battle"
-- "Elie's EP Outside Battle"
-- "Fire Sepith"
-- "Lloyd's CP Outside Battle"
-- "Lloyd's EP Outside Battle"
-- "Mirage Sepith"
-- "Money"
-- "Randy's CP Outside Battle"
-- "Randy's EP Outside Battle"
-- "Red Flies"
-- "Space Sepith"
-- "Time Sepith"
-- "Tio's CP Outside Battle"
-- "Tio's EP Outside Battle"
-- "Water Sepith"
-- "Wind Sepith"
+- DP (Detective Points)
+- Earth Sepith
+- Elie's CP Outside Battle
+- Elie's EP Outside Battle
+- Fire Sepith
+- Lloyd's CP Outside Battle
+- Lloyd's EP Outside Battle
+- Mirage Sepith
+- Money
+- Randy's CP Outside Battle
+- Randy's EP Outside Battle
+- Red Flies
+- Space Sepith
+- Time Sepith
+- Tio's CP Outside Battle
+- Tio's EP Outside Battle
+- Water Sepith
+- Wind Sepith

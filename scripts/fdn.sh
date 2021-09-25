@@ -5,5 +5,5 @@
 set -euo pipefail
 
 # jq '.[][][2]' "$1" | uniq | xclip -selection c
-DESCRIPTIONS=$(jq '.[][][2]' "$1" | uniq | perl -pe 's/\A/- /g')
+DESCRIPTIONS=$(jq -r '.[][][2]' "$1" | uniq | perl -pe 's/\A/- /g')
 echo "$DESCRIPTIONS"
