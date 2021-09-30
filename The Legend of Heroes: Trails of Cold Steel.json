@@ -24,7 +24,7 @@
       "Earth Sepith",
       14227584,
       "int32",
-      "11609",
+      "11651",
       true
     ],
     [
@@ -231,7 +231,7 @@
       "Fire Sepith",
       14227592,
       "int32",
-      "11791",
+      "11843",
       true
     ],
     [
@@ -291,8 +291,17 @@
     [
       "=",
       false,
-      "Master Quartz EXP - Raven",
-      14225668,
+      "Master Quartz EXP - Iron",
+      14173952,
+      "int64",
+      "29999",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Master Quartz EXP - Iron",
+      14225588,
       "int64",
       "29999",
       true
@@ -301,9 +310,18 @@
       "=",
       false,
       "Master Quartz EXP - Raven",
+      14225668,
+      "int64",
+      "30000",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Master Quartz EXP - Raven",
       14174032,
       "int64",
-      "29999",
+      "30000",
       true
     ],
     [
@@ -321,7 +339,7 @@
       "Mirage Sepith",
       14227608,
       "int32",
-      "11482",
+      "11510",
       true
     ],
     [
