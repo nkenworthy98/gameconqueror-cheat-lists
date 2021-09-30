@@ -3,6 +3,24 @@
     [
       "=",
       false,
+      "Master Quartz EXP - Angel",
+      14225468,
+      "int64",
+      "29999",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Master Quartz EXP - Angel",
+      14173832,
+      "int64",
+      "29999",
+      true
+    ],
+    [
+      "=",
+      false,
       "Bonding Points",
       13019416,
       "int32",
@@ -15,7 +33,7 @@
       "Current Angler Points",
       14230876,
       "int32",
-      "6176",
+      "2713",
       true
     ],
     [
@@ -24,7 +42,7 @@
       "Earth Sepith",
       14227584,
       "int32",
-      "7914",
+      "11579",
       true
     ],
     [
@@ -33,7 +51,7 @@
       "EXP Alisa",
       13761520,
       "int32",
-      "835413",
+      "1029990",
       true
     ],
     [
@@ -42,7 +60,7 @@
       "EXP Alisa",
       14221364,
       "int32",
-      "835413",
+      "1029990",
       true
     ],
     [
@@ -51,7 +69,7 @@
       "EXP Crow",
       13762240,
       "int32",
-      "240153",
+      "989610",
       true
     ],
     [
@@ -60,7 +78,7 @@
       "EXP Crow",
       14222084,
       "int32",
-      "240153",
+      "989610",
       true
     ],
     [
@@ -87,7 +105,7 @@
       "EXP Emma",
       13761840,
       "int32",
-      "819043",
+      "1009800",
       true
     ],
     [
@@ -96,7 +114,7 @@
       "EXP Emma",
       14221684,
       "int32",
-      "819043",
+      "1009800",
       true
     ],
     [
@@ -123,7 +141,7 @@
       "EXP Gaius",
       13762080,
       "int32",
-      "511864",
+      "1009800",
       true
     ],
     [
@@ -132,7 +150,7 @@
       "EXP Gaius",
       14221924,
       "int32",
-      "511864",
+      "1009800",
       true
     ],
     [
@@ -141,7 +159,7 @@
       "EXP Jusis",
       13761920,
       "int32",
-      "716433",
+      "989610",
       true
     ],
     [
@@ -150,7 +168,7 @@
       "EXP Jusis",
       14221764,
       "int32",
-      "716433",
+      "989610",
       true
     ],
     [
@@ -195,7 +213,7 @@
       "EXP Millium",
       14222004,
       "int32",
-      "249933",
+      "1029990",
       true
     ],
     [
@@ -204,7 +222,7 @@
       "EXP Millium",
       13762160,
       "int32",
-      "249933",
+      "1029990",
       true
     ],
     [
@@ -231,7 +249,7 @@
       "Fire Sepith",
       14227592,
       "int32",
-      "8142",
+      "11776",
       true
     ],
     [
@@ -276,7 +294,7 @@
       "Mira",
       14227648,
       "int32",
-      "979959",
+      "760779",
       true
     ],
     [
@@ -285,7 +303,7 @@
       "Mirage Sepith",
       14227608,
       "int32",
-      "8690",
+      "11462",
       true
     ],
     [
@@ -308,7 +326,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Elliot",
       14221416,
       "int16",
@@ -326,7 +344,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Fie",
       14221816,
       "int16",
@@ -344,7 +362,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Laura",
       14221496,
       "int16",
@@ -353,7 +371,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Machias",
       14221576,
       "int16",
@@ -384,7 +402,7 @@
       "Outside Battle EP - Alisa",
       14221332,
       "int16",
-      "650",
+      "760",
       true
     ],
     [
@@ -393,12 +411,12 @@
       "Outside Battle EP - Crow",
       14222052,
       "int16",
-      "610",
+      "630",
       true
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle EP - Elliot",
       14221412,
       "int16",
@@ -411,16 +429,16 @@
       "Outside Battle EP - Emma",
       14221652,
       "int16",
-      "940",
+      "970",
       true
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle EP - Fie",
       14221812,
       "int16",
-      "500",
+      "470",
       true
     ],
     [
@@ -429,12 +447,12 @@
       "Outside Battle EP - Jusis",
       14221732,
       "int16",
-      "660",
+      "670",
       true
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle EP - Laura",
       14221492,
       "int16",
@@ -443,7 +461,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle EP - Machias",
       14221572,
       "int16",
@@ -456,7 +474,7 @@
       "Outside Battle EP - Millium",
       14221972,
       "int16",
-      "560",
+      "580",
       true
     ],
     [
@@ -465,7 +483,7 @@
       "Outside Battle EP - Rean",
       14221252,
       "int16",
-      "590",
+      "670",
       true
     ],
     [
@@ -474,7 +492,7 @@
       "Sepith Mass",
       14227612,
       "int32",
-      "800",
+      "76",
       true
     ],
     [
@@ -483,7 +501,7 @@
       "Space Sepith",
       14227604,
       "int32",
-      "6999",
+      "10679",
       true
     ],
     [
@@ -492,7 +510,7 @@
       "Time Sepith",
       14227600,
       "int32",
-      "4807",
+      "10650",
       true
     ],
     [
@@ -501,7 +519,7 @@
       "Water Sepith",
       14227588,
       "int32",
-      "6702",
+      "10721",
       true
     ],
     [
@@ -510,7 +528,7 @@
       "Wind Sepith",
       14227596,
       "int32",
-      "6143",
+      "10685",
       true
     ]
   ]
