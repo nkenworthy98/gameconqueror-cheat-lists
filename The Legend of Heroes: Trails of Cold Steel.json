@@ -3,24 +3,6 @@
     [
       "=",
       false,
-      "Master Quartz EXP - Angel",
-      14225468,
-      "int64",
-      "29999",
-      true
-    ],
-    [
-      "=",
-      false,
-      "Master Quartz EXP - Angel",
-      14173832,
-      "int64",
-      "29999",
-      true
-    ],
-    [
-      "=",
-      false,
       "Bonding Points",
       13019416,
       "int32",
@@ -42,7 +24,7 @@
       "Earth Sepith",
       14227584,
       "int32",
-      "11579",
+      "11609",
       true
     ],
     [
@@ -249,7 +231,25 @@
       "Fire Sepith",
       14227592,
       "int32",
-      "11776",
+      "11791",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Master Quartz EXP - Angel",
+      14225468,
+      "int64",
+      "30000",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Master Quartz EXP - Angel",
+      14173832,
+      "int64",
+      "30000",
       true
     ],
     [
@@ -291,6 +291,24 @@
     [
       "=",
       false,
+      "Master Quartz EXP - Raven",
+      14225668,
+      "int64",
+      "29999",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Master Quartz EXP - Raven",
+      14174032,
+      "int64",
+      "29999",
+      true
+    ],
+    [
+      "=",
+      false,
       "Mira",
       14227648,
       "int32",
@@ -303,7 +321,7 @@
       "Mirage Sepith",
       14227608,
       "int32",
-      "11462",
+      "11482",
       true
     ],
     [
