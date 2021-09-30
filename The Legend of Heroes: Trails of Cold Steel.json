@@ -24,7 +24,7 @@
       "Earth Sepith",
       14227584,
       "int32",
-      "11651",
+      "11657",
       true
     ],
     [
@@ -258,7 +258,7 @@
       "Master Quartz EXP - Canon",
       14173752,
       "int64",
-      "29999",
+      "30000",
       true
     ],
     [
@@ -267,7 +267,7 @@
       "Master Quartz EXP - Canon",
       14225388,
       "int64",
-      "29999",
+      "30000",
       true
     ],
     [
@@ -285,6 +285,24 @@
       "Master Quartz EXP - Criminal",
       14174312,
       "int32",
+      "30000",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Master Quartz EXP - Cypher",
+      14174392,
+      "int64",
+      "30000",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Master Quartz EXP - Cypher",
+      14226028,
+      "int64",
       "30000",
       true
     ],
@@ -357,7 +375,7 @@
       "Mirage Sepith",
       14227608,
       "int32",
-      "11518",
+      "11542",
       true
     ],
     [
@@ -546,7 +564,7 @@
       "Sepith Mass",
       14227612,
       "int32",
-      "76",
+      "3057",
       true
     ],
     [
@@ -555,7 +573,7 @@
       "Space Sepith",
       14227604,
       "int32",
-      "10679",
+      "11622",
       true
     ],
     [
@@ -564,7 +582,7 @@
       "Time Sepith",
       14227600,
       "int32",
-      "10650",
+      "11566",
       true
     ],
     [
@@ -573,7 +591,7 @@
       "Water Sepith",
       14227588,
       "int32",
-      "10721",
+      "11682",
       true
     ],
     [
@@ -582,7 +600,7 @@
       "Wind Sepith",
       14227596,
       "int32",
-      "10685",
+      "11724",
       true
     ]
   ]
