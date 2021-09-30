@@ -231,7 +231,7 @@
       "Fire Sepith",
       14227592,
       "int32",
-      "11843",
+      "11851",
       true
     ],
     [
@@ -250,6 +250,24 @@
       14173832,
       "int64",
       "30000",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Master Quartz EXP - Canon",
+      14173752,
+      "int64",
+      "29999",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Master Quartz EXP - Canon",
+      14225388,
+      "int64",
+      "29999",
       true
     ],
     [
@@ -294,7 +312,7 @@
       "Master Quartz EXP - Iron",
       14173952,
       "int64",
-      "29999",
+      "30000",
       true
     ],
     [
@@ -303,7 +321,7 @@
       "Master Quartz EXP - Iron",
       14225588,
       "int64",
-      "29999",
+      "30000",
       true
     ],
     [
@@ -339,7 +357,7 @@
       "Mirage Sepith",
       14227608,
       "int32",
-      "11510",
+      "11518",
       true
     ],
     [
