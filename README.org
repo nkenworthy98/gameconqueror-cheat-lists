@@ -20,8 +20,13 @@
 - EXP Millium
 - EXP Rean
 - Fire Sepith
+- Master Quartz EXP - Angel
+- Master Quartz EXP - Canon
 - Master Quartz EXP - Criminal
+- Master Quartz EXP - Cypher
 - Master Quartz EXP - Force
+- Master Quartz EXP - Iron
+- Master Quartz EXP - Raven
 - Mira
 - Mirage Sepith
 - Outside Battle Craft Points - Alisa
