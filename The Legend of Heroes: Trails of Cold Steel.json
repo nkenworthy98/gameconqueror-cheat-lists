@@ -231,7 +231,7 @@
       "Fire Sepith",
       14227592,
       "int32",
-      "13518",
+      "13568",
       true
     ],
     [
@@ -258,7 +258,7 @@
       "Master Quartz EXP - Brave",
       14173872,
       "int64",
-      "29999",
+      "30000",
       true
     ],
     [
@@ -267,7 +267,7 @@
       "Master Quartz EXP - Brave",
       14225508,
       "int64",
-      "29999",
+      "30000",
       true
     ],
     [
@@ -381,6 +381,24 @@
     [
       "=",
       false,
+      "Master Quartz EXP - Vermillion",
+      14174672,
+      "int64",
+      "29999",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Master Quartz EXP - Vermillion",
+      14226308,
+      "int64",
+      "29999",
+      true
+    ],
+    [
+      "=",
+      false,
       "Mira",
       14227648,
       "int32",
@@ -393,7 +411,7 @@
       "Mirage Sepith",
       14227608,
       "int32",
-      "13030",
+      "13090",
       true
     ],
     [
