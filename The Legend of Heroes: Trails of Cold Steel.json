@@ -15,7 +15,7 @@
       "Current Angler Points",
       14230876,
       "int32",
-      "2713",
+      "2754",
       true
     ],
     [
@@ -24,7 +24,7 @@
       "Earth Sepith",
       14227584,
       "int32",
-      "11657",
+      "12933",
       true
     ],
     [
@@ -231,7 +231,7 @@
       "Fire Sepith",
       14227592,
       "int32",
-      "11851",
+      "13343",
       true
     ],
     [
@@ -366,7 +366,7 @@
       "Mira",
       14227648,
       "int32",
-      "760779",
+      "550619",
       true
     ],
     [
@@ -375,7 +375,7 @@
       "Mirage Sepith",
       14227608,
       "int32",
-      "11542",
+      "12911",
       true
     ],
     [
@@ -419,6 +419,15 @@
       true,
       "Outside Battle Craft Points - Fie",
       14221816,
+      "int16",
+      "200",
+      true
+    ],
+    [
+      "=",
+      true,
+      "Outside Battle Craft Points - Gaius",
+      14221896,
       "int16",
       "200",
       true
@@ -474,7 +483,7 @@
       "Outside Battle EP - Alisa",
       14221332,
       "int16",
-      "760",
+      "780",
       true
     ],
     [
@@ -483,7 +492,7 @@
       "Outside Battle EP - Crow",
       14222052,
       "int16",
-      "630",
+      "650",
       true
     ],
     [
@@ -492,7 +501,7 @@
       "Outside Battle EP - Elliot",
       14221412,
       "int16",
-      "850",
+      "870",
       true
     ],
     [
@@ -510,7 +519,7 @@
       "Outside Battle EP - Fie",
       14221812,
       "int16",
-      "470",
+      "480",
       true
     ],
     [
@@ -537,7 +546,7 @@
       "Outside Battle EP - Machias",
       14221572,
       "int16",
-      "520",
+      "540",
       true
     ],
     [
@@ -564,7 +573,7 @@
       "Sepith Mass",
       14227612,
       "int32",
-      "3057",
+      "125",
       true
     ],
     [
@@ -573,7 +582,7 @@
       "Space Sepith",
       14227604,
       "int32",
-      "11622",
+      "13111",
       true
     ],
     [
@@ -582,7 +591,7 @@
       "Time Sepith",
       14227600,
       "int32",
-      "11566",
+      "12940",
       true
     ],
     [
@@ -591,7 +600,7 @@
       "Water Sepith",
       14227588,
       "int32",
-      "11682",
+      "13163",
       true
     ],
     [
@@ -600,7 +609,7 @@
       "Wind Sepith",
       14227596,
       "int32",
-      "11724",
+      "13073",
       true
     ]
   ]
