@@ -3,10 +3,37 @@
     [
       "=",
       false,
-      "EXP - Rean",
-      12577628,
+      "EXP - Elise",
+      12085892,
+      "int32",
+      "285999",
+      true
+    ],
+    [
+      "=",
+      false,
+      "EXP - Elise",
+      12578716,
+      "int32",
+      "285999",
+      true
+    ],
+    [
+      "=",
+      false,
+      "EXP - Machias",
+      12085060,
       "int64",
-      "197799",
+      "249709",
+      true
+    ],
+    [
+      "=",
+      false,
+      "EXP - Machias",
+      12577884,
+      "int64",
+      "249709",
       true
     ],
     [
@@ -15,7 +42,34 @@
       "EXP - Rean",
       12084804,
       "int64",
-      "197799",
+      "818799",
+      true
+    ],
+    [
+      "=",
+      false,
+      "EXP - Rean",
+      12577628,
+      "int64",
+      "818799",
+      true
+    ],
+    [
+      "=",
+      false,
+      "EXP - Toval",
+      12085828,
+      "int32",
+      "750099",
+      true
+    ],
+    [
+      "=",
+      false,
+      "EXP - Toval",
+      12578652,
+      "int32",
+      "750099",
       true
     ],
     [
@@ -24,7 +78,97 @@
       "Mira",
       12595100,
       "int64",
-      "999999",
+      "470584",
+      true
+    ],
+    [
+      "=",
+      true,
+      "Outside Battle Craft Points - Rean",
+      12577600,
+      "int16",
+      "200",
+      true
+    ],
+    [
+      "=",
+      true,
+      "Outside Battle Craft Points - Toval",
+      12578624,
+      "int16",
+      "200",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sepith - Earth",
+      12595036,
+      "int32",
+      "6922",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sepith - Fire",
+      12595044,
+      "int32",
+      "6113",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sepith Mass",
+      12595064,
+      "int32",
+      "768",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sepith - Mirage",
+      12595060,
+      "int32",
+      "6748",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sepith - Space",
+      12595056,
+      "int32",
+      "6074",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sepith - Time",
+      12595052,
+      "int32",
+      "5482",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sepith - Water",
+      12595040,
+      "int32",
+      "7079",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sepith - Wind",
+      12595048,
+      "int32",
+      "5554",
       true
     ]
   ]
