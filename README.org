@@ -2,6 +2,7 @@
 
 * Table of Contents :TOC:
 - [[#the-legend-of-heroes-trails-of-cold-steel][The Legend of Heroes: Trails of Cold Steel]]
+- [[#the-legend-of-heroes-trails-of-cold-steel-ii][The Legend of Heroes: Trails of Cold Steel II]]
 - [[#the-legend-of-heroes-zero-no-kiseki][The Legend of Heroes: Zero no Kiseki]]
 
 * The Legend of Heroes: Trails of Cold Steel
@@ -21,12 +22,14 @@
 - EXP Rean
 - Fire Sepith
 - Master Quartz EXP - Angel
+- Master Quartz EXP - Brave
 - Master Quartz EXP - Canon
 - Master Quartz EXP - Criminal
 - Master Quartz EXP - Cypher
 - Master Quartz EXP - Force
 - Master Quartz EXP - Iron
 - Master Quartz EXP - Raven
+- Master Quartz EXP - Vermillion
 - Mira
 - Mirage Sepith
 - Outside Battle Craft Points - Alisa
@@ -34,6 +37,7 @@
 - Outside Battle Craft Points - Elliot
 - Outside Battle Craft Points - Emma
 - Outside Battle Craft Points - Fie
+- Outside Battle Craft Points - Gaius
 - Outside Battle Craft Points - Jusis
 - Outside Battle Craft Points - Laura
 - Outside Battle Craft Points - Machias
@@ -44,6 +48,7 @@
 - Outside Battle EP - Elliot
 - Outside Battle EP - Emma
 - Outside Battle EP - Fie
+- Outside Battle EP - Gaius
 - Outside Battle EP - Jusis
 - Outside Battle EP - Laura
 - Outside Battle EP - Machias
@@ -54,6 +59,23 @@
 - Time Sepith
 - Water Sepith
 - Wind Sepith
+
+* The Legend of Heroes: Trails of Cold Steel II
+- EXP - Elise
+- EXP - Machias
+- EXP - Rean
+- EXP - Toval
+- Mira
+- Outside Battle Craft Points - Rean
+- Outside Battle Craft Points - Toval
+- Sepith - Earth
+- Sepith - Fire
+- Sepith Mass
+- Sepith - Mirage
+- Sepith - Space
+- Sepith - Time
+- Sepith - Water
+- Sepith - Wind
 
 * The Legend of Heroes: Zero no Kiseki
 - DP (Detective Points)
