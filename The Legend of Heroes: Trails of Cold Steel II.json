@@ -6,7 +6,7 @@
       "Bonding Points",
       11008480,
       "int32",
-      "1",
+      "0",
       true
     ],
     [
@@ -167,6 +167,24 @@
       false,
       "Link EXP - Rean and Fie",
       315266136,
+      "int32",
+      "7499",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Link EXP - Rean and Machias",
+      315266124,
+      "int32",
+      "7499",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Link EXP - Rean and Machias",
+      315266876,
       "int32",
       "7499",
       true
