@@ -3,6 +3,15 @@
     [
       "=",
       false,
+      "Bonding Points",
+      11008480,
+      "int32",
+      "1",
+      true
+    ],
+    [
+      "=",
+      false,
       "EXP - Elise",
       12085892,
       "int32",
@@ -24,7 +33,7 @@
       "EXP - Elliot",
       12084932,
       "int64",
-      "304918",
+      "385937",
       true
     ],
     [
@@ -33,7 +42,7 @@
       "EXP - Elliot",
       12577756,
       "int64",
-      "304918",
+      "385937",
       true
     ],
     [
@@ -42,7 +51,7 @@
       "EXP - Fie",
       12085252,
       "int32",
-      "294542",
+      "373487",
       true
     ],
     [
@@ -51,7 +60,7 @@
       "EXP - Fie",
       12578076,
       "int32",
-      "294542",
+      "373487",
       true
     ],
     [
@@ -60,7 +69,7 @@
       "EXP - Machias",
       12085060,
       "int64",
-      "420539",
+      "515277",
       true
     ],
     [
@@ -69,7 +78,7 @@
       "EXP - Machias",
       12577884,
       "int64",
-      "420539",
+      "515277",
       true
     ],
     [
@@ -78,7 +87,7 @@
       "EXP - Rean",
       12084804,
       "int64",
-      "1092109",
+      "1243377",
       true
     ],
     [
@@ -87,7 +96,7 @@
       "EXP - Rean",
       12577628,
       "int64",
-      "1092109",
+      "1243377",
       true
     ],
     [
@@ -96,7 +105,7 @@
       "EXP - Toval",
       12085828,
       "int32",
-      "1009709",
+      "1153837",
       true
     ],
     [
@@ -105,7 +114,25 @@
       "EXP - Toval",
       12578652,
       "int32",
-      "1009709",
+      "1153837",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Link EXP - Rean and Fie",
+      315267452,
+      "int32",
+      "7499",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Link EXP - Rean and Fie",
+      315266136,
+      "int32",
+      "7499",
       true
     ],
     [
@@ -114,12 +141,12 @@
       "Mira",
       12595100,
       "int64",
-      "987299",
+      "947699",
       true
     ],
     [
       "=",
-      true,
+      false,
       "Outside Battle Craft Points - Elliot",
       12577728,
       "int16",
@@ -128,7 +155,7 @@
     ],
     [
       "=",
-      true,
+      false,
       "Outside Battle Craft Points - Fie",
       12578048,
       "int16",
@@ -137,7 +164,7 @@
     ],
     [
       "=",
-      true,
+      false,
       "Outside Battle Craft Points - Machias",
       12577856,
       "int16",
@@ -146,7 +173,7 @@
     ],
     [
       "=",
-      true,
+      false,
       "Outside Battle Craft Points - Rean",
       12577600,
       "int16",
@@ -155,7 +182,7 @@
     ],
     [
       "=",
-      true,
+      false,
       "Outside Battle Craft Points - Toval",
       12578624,
       "int16",
@@ -168,7 +195,7 @@
       "Sepith - Earth",
       12595036,
       "int32",
-      "4323",
+      "4889",
       true
     ],
     [
@@ -177,7 +204,7 @@
       "Sepith - Fire",
       12595044,
       "int32",
-      "4923",
+      "5297",
       true
     ],
     [
@@ -186,7 +213,7 @@
       "Sepith Mass",
       12595064,
       "int32",
-      "1032",
+      "1351",
       true
     ],
     [
@@ -195,7 +222,7 @@
       "Sepith - Mirage",
       12595060,
       "int32",
-      "4905",
+      "5549",
       true
     ],
     [
@@ -204,7 +231,7 @@
       "Sepith - Space",
       12595056,
       "int32",
-      "4689",
+      "5357",
       true
     ],
     [
@@ -213,7 +240,7 @@
       "Sepith - Time",
       12595052,
       "int32",
-      "4098",
+      "4734",
       true
     ],
     [
@@ -222,7 +249,7 @@
       "Sepith - Water",
       12595040,
       "int32",
-      "5819",
+      "6160",
       true
     ],
     [
@@ -231,7 +258,7 @@
       "Sepith - Wind",
       12595048,
       "int32",
-      "4261",
+      "4572",
       true
     ]
   ]
