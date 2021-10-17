@@ -123,7 +123,7 @@
       "Link EXP - Rean and Claire",
       315266168,
       "int32",
-      "1500",
+      "7499",
       true
     ],
     [
@@ -132,7 +132,25 @@
       "Link EXP - Rean and Claire",
       315268988,
       "int32",
-      "1500",
+      "7499",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Link EXP - Rean and Elliot",
+      315266116,
+      "int32",
+      "7499",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Link EXP - Rean and Elliot",
+      315266492,
+      "int32",
+      "7499",
       true
     ],
     [
