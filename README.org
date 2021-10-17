@@ -61,11 +61,24 @@
 - Wind Sepith
 
 * The Legend of Heroes: Trails of Cold Steel II
+- Bonding Points
+- EXP - Claire
 - EXP - Elise
+- EXP - Elliot
+- EXP - Fie
 - EXP - Machias
 - EXP - Rean
 - EXP - Toval
+- Link EXP - Rean and Claire
+- Link EXP - Rean and Elliot
+- Link EXP - Rean and Fie
+- Link EXP - Rean and Machias
+- Link EXP - Rean and Toval
 - Mira
+- Outside Battle Craft Points - Claire
+- Outside Battle Craft Points - Elliot
+- Outside Battle Craft Points - Fie
+- Outside Battle Craft Points - Machias
 - Outside Battle Craft Points - Rean
 - Outside Battle Craft Points - Toval
 - Sepith - Earth
