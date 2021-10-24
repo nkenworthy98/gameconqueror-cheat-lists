@@ -102,6 +102,24 @@
     [
       "=",
       false,
+      "EXP - Gaius",
+      12085316,
+      "int32",
+      "350123",
+      true
+    ],
+    [
+      "=",
+      false,
+      "EXP - Gaius",
+      12578140,
+      "int32",
+      "350123",
+      true
+    ],
+    [
+      "=",
+      false,
       "EXP - Machias",
       12085060,
       "int64",
