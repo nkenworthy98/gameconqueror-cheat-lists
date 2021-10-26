@@ -62,11 +62,14 @@
 
 * The Legend of Heroes: Trails of Cold Steel II
 - Bonding Points
+- EXP - Alisa
 - EXP - Claire
 - EXP - Elise
 - EXP - Elliot
 - EXP - Fie
+- EXP - Gaius
 - EXP - Machias
+- EXP - Millium
 - EXP - Rean
 - EXP - Toval
 - Link EXP - Rean and Claire
@@ -75,10 +78,12 @@
 - Link EXP - Rean and Machias
 - Link EXP - Rean and Toval
 - Mira
+- Outside Battle Craft Points - Alisa
 - Outside Battle Craft Points - Claire
 - Outside Battle Craft Points - Elliot
 - Outside Battle Craft Points - Fie
 - Outside Battle Craft Points - Machias
+- Outside Battle Craft Points - Millium
 - Outside Battle Craft Points - Rean
 - Outside Battle Craft Points - Toval
 - Sepith - Earth
