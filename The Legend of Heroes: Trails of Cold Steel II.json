@@ -6,7 +6,7 @@
       "Bonding Points",
       11008480,
       "int32",
-      "2",
+      "1",
       true
     ],
     [
@@ -264,10 +264,28 @@
     [
       "=",
       false,
+      "Link EXP - Rean and Millium",
+      315266144,
+      "int32",
+      "7300",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Link EXP - Rean and Millium",
+      315267836,
+      "int32",
+      "7300",
+      true
+    ],
+    [
+      "=",
+      false,
       "Link EXP - Rean and Sharon",
       315268796,
       "int32",
-      "7000",
+      "7499",
       true
     ],
     [
@@ -276,7 +294,7 @@
       "Link EXP - Rean and Sharon",
       315266164,
       "int32",
-      "7000",
+      "7499",
       true
     ],
     [
@@ -438,7 +456,7 @@
       "Sepith - Water",
       12595040,
       "int32",
-      "10254",
+      "10779",
       true
     ],
     [
@@ -447,7 +465,7 @@
       "Sepith - Wind",
       12595048,
       "int32",
-      "10285",
+      "10999",
       true
     ]
   ]
