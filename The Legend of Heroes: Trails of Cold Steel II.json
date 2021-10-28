@@ -6,7 +6,7 @@
       "Bonding Points",
       11008480,
       "int32",
-      "2",
+      "0",
       true
     ],
     [
@@ -192,6 +192,24 @@
     [
       "=",
       false,
+      "Link EXP - Rean and Alisa",
+      315266112,
+      "int32",
+      "7305",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Link EXP - Rean and Alisa",
+      315266300,
+      "int32",
+      "7305",
+      true
+    ],
+    [
+      "=",
+      false,
       "Link EXP - Rean and Claire",
       315266168,
       "int32",
@@ -339,7 +357,7 @@
       "Mira",
       12595100,
       "int64",
-      "805319",
+      "752199",
       true
     ],
     [
@@ -420,7 +438,7 @@
       "Sepith - Earth",
       12595036,
       "int32",
-      "10750",
+      "9250",
       true
     ],
     [
@@ -429,7 +447,7 @@
       "Sepith - Fire",
       12595044,
       "int32",
-      "10799",
+      "9299",
       true
     ],
     [
@@ -447,7 +465,7 @@
       "Sepith - Mirage",
       12595060,
       "int32",
-      "11099",
+      "8899",
       true
     ],
     [
@@ -456,7 +474,7 @@
       "Sepith - Space",
       12595056,
       "int32",
-      "11061",
+      "9570",
       true
     ],
     [
