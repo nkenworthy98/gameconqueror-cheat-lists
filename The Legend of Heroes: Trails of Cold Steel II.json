@@ -183,6 +183,24 @@
     [
       "=",
       false,
+      "EXP - Sharon",
+      12085700,
+      "int32",
+      "521219",
+      true
+    ],
+    [
+      "=",
+      false,
+      "EXP - Sharon",
+      12578524,
+      "int32",
+      "521219",
+      true
+    ],
+    [
+      "=",
+      false,
       "EXP - Toval",
       12085828,
       "int32",
@@ -366,12 +384,12 @@
       "Mira",
       12595100,
       "int64",
-      "752199",
+      "756699",
       true
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Alisa",
       12577664,
       "int16",
@@ -380,7 +398,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Claire",
       12578560,
       "int16",
@@ -389,7 +407,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Elliot",
       12577728,
       "int16",
@@ -398,7 +416,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Fie",
       12578048,
       "int16",
@@ -407,7 +425,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Machias",
       12577856,
       "int16",
@@ -416,7 +434,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Millium",
       12578176,
       "int16",
@@ -425,7 +443,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Rean",
       12577600,
       "int16",
@@ -434,7 +452,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Toval",
       12578624,
       "int16",
@@ -492,7 +510,7 @@
       "Sepith - Time",
       12595052,
       "int32",
-      "11028",
+      "8456",
       true
     ],
     [
@@ -501,7 +519,7 @@
       "Sepith - Water",
       12595040,
       "int32",
-      "10779",
+      "9321",
       true
     ],
     [
@@ -510,7 +528,7 @@
       "Sepith - Wind",
       12595048,
       "int32",
-      "10999",
+      "9589",
       true
     ]
   ]
