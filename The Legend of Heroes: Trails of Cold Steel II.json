@@ -3,6 +3,15 @@
     [
       "=",
       false,
+      "Angler Points",
+      12612944,
+      "int32",
+      "4580",
+      true
+    ],
+    [
+      "=",
+      false,
       "Bonding Points",
       11008480,
       "int32",
@@ -362,7 +371,7 @@
     ],
     [
       "=",
-      true,
+      false,
       "Outside Battle Craft Points - Alisa",
       12577664,
       "int16",
@@ -371,7 +380,7 @@
     ],
     [
       "=",
-      true,
+      false,
       "Outside Battle Craft Points - Claire",
       12578560,
       "int16",
@@ -380,7 +389,7 @@
     ],
     [
       "=",
-      true,
+      false,
       "Outside Battle Craft Points - Elliot",
       12577728,
       "int16",
@@ -389,7 +398,7 @@
     ],
     [
       "=",
-      true,
+      false,
       "Outside Battle Craft Points - Fie",
       12578048,
       "int16",
@@ -398,7 +407,7 @@
     ],
     [
       "=",
-      true,
+      false,
       "Outside Battle Craft Points - Machias",
       12577856,
       "int16",
@@ -407,7 +416,7 @@
     ],
     [
       "=",
-      true,
+      false,
       "Outside Battle Craft Points - Millium",
       12578176,
       "int16",
@@ -416,7 +425,7 @@
     ],
     [
       "=",
-      true,
+      false,
       "Outside Battle Craft Points - Rean",
       12577600,
       "int16",
@@ -425,7 +434,7 @@
     ],
     [
       "=",
-      true,
+      false,
       "Outside Battle Craft Points - Toval",
       12578624,
       "int16",
