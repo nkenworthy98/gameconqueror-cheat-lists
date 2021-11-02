@@ -61,16 +61,20 @@
 - Wind Sepith
 
 * The Legend of Heroes: Trails of Cold Steel II
+- Angler Points
 - Bonding Points
 - EXP - Alisa
 - EXP - Claire
 - EXP - Elise
 - EXP - Elliot
+- EXP - Emma
 - EXP - Fie
 - EXP - Gaius
+- EXP - Laura
 - EXP - Machias
 - EXP - Millium
 - EXP - Rean
+- EXP - Sharon
 - EXP - Toval
 - Link EXP - Rean and Alisa
 - Link EXP - Rean and Claire
@@ -85,7 +89,9 @@
 - Outside Battle Craft Points - Alisa
 - Outside Battle Craft Points - Claire
 - Outside Battle Craft Points - Elliot
+- Outside Battle Craft Points - Emma
 - Outside Battle Craft Points - Fie
+- Outside Battle Craft Points - Laura
 - Outside Battle Craft Points - Machias
 - Outside Battle Craft Points - Millium
 - Outside Battle Craft Points - Rean
