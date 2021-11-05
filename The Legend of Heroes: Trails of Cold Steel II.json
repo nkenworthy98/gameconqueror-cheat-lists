@@ -309,6 +309,24 @@
     [
       "=",
       false,
+      "Link EXP - Rean and Emma",
+      315266060,
+      "int32",
+      "7000",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Link EXP - Rean and Emma",
+      315265120,
+      "int32",
+      "7000",
+      true
+    ],
+    [
+      "=",
+      false,
       "Link EXP - Rean and Fie",
       315267452,
       "int32",
@@ -420,7 +438,7 @@
       "Link EXP - Rean and Sara",
       315265144,
       "int32",
-      "7000",
+      "7499",
       true
     ],
     [
@@ -429,7 +447,7 @@
       "Link EXP - Rean and Sara",
       315267212,
       "int32",
-      "7000",
+      "7499",
       true
     ],
     [
