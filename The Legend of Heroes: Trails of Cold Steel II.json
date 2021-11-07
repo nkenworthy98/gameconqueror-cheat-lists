@@ -578,11 +578,11 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Rean",
       12577600,
       "int16",
-      "41",
+      "200",
       true
     ],
     [
@@ -605,11 +605,11 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle EP - Rean",
       12577596,
       "int16",
-      "750",
+      "1200",
       true
     ],
     [
@@ -618,7 +618,7 @@
       "Sepith - Earth",
       12595036,
       "int32",
-      "10101",
+      "10113",
       true
     ],
     [
@@ -627,7 +627,7 @@
       "Sepith - Fire",
       12595044,
       "int32",
-      "7974",
+      "7983",
       true
     ],
     [
@@ -636,7 +636,7 @@
       "Sepith Mass",
       12595064,
       "int32",
-      "9690",
+      "9696",
       true
     ],
     [
@@ -645,7 +645,7 @@
       "Sepith - Mirage",
       12595060,
       "int32",
-      "9861",
+      "9864",
       true
     ],
     [
@@ -654,7 +654,7 @@
       "Sepith - Space",
       12595056,
       "int32",
-      "9822",
+      "9825",
       true
     ],
     [
@@ -663,7 +663,7 @@
       "Sepith - Time",
       12595052,
       "int32",
-      "9857",
+      "9860",
       true
     ],
     [
@@ -672,7 +672,7 @@
       "Sepith - Water",
       12595040,
       "int32",
-      "9722",
+      "9728",
       true
     ],
     [
@@ -681,7 +681,25 @@
       "Sepith - Wind",
       12595048,
       "int32",
-      "9692",
+      "9698",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Stats - Arts Strength (ATS) - Rean",
+      12577608,
+      "int16",
+      "2300",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Stats - Arts Strength (ATS) - Rean",
+      12084784,
+      "int16",
+      "2300",
       true
     ],
     [
