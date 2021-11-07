@@ -687,8 +687,26 @@
     [
       "=",
       false,
+      "Stats - Arts Defense (ADF) - Rean",
+      12084786,
+      "int16",
+      "1800",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Stats - Arts Defense (ADF) - Rean",
+      12577610,
+      "int16",
+      "1800",
+      true
+    ],
+    [
+      "=",
+      false,
       "Stats - Arts Strength (ATS) - Rean",
-      12577608,
+      12084784,
       "int16",
       "2300",
       true
@@ -697,7 +715,7 @@
       "=",
       false,
       "Stats - Arts Strength (ATS) - Rean",
-      12084784,
+      12577608,
       "int16",
       "2300",
       true
