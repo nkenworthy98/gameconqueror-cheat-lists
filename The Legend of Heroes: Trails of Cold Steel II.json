@@ -6,7 +6,7 @@
       "Angler Points",
       12612944,
       "int32",
-      "4835",
+      "4867",
       true
     ],
     [
@@ -15,7 +15,16 @@
       "Bonding Points",
       11008480,
       "int32",
-      "5",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Current AP",
+      11008500,
+      "int32",
+      "123",
       true
     ],
     [
@@ -24,7 +33,7 @@
       "EXP - Alisa",
       12577692,
       "int32",
-      "817020",
+      "1156777",
       true
     ],
     [
@@ -33,7 +42,7 @@
       "EXP - Alisa",
       12084868,
       "int32",
-      "817020",
+      "1156777",
       true
     ],
     [
@@ -42,7 +51,7 @@
       "EXP - Claire",
       12085764,
       "int32",
-      "897159",
+      "897504",
       true
     ],
     [
@@ -51,7 +60,7 @@
       "EXP - Claire",
       12578588,
       "int32",
-      "897159",
+      "897504",
       true
     ],
     [
@@ -60,7 +69,7 @@
       "EXP - Elise",
       12085892,
       "int32",
-      "285999",
+      "855399",
       true
     ],
     [
@@ -69,7 +78,7 @@
       "EXP - Elise",
       12578716,
       "int32",
-      "285999",
+      "855399",
       true
     ],
     [
@@ -96,7 +105,7 @@
       "EXP - Emma",
       12577948,
       "int32",
-      "632128",
+      "931097",
       true
     ],
     [
@@ -105,7 +114,7 @@
       "EXP - Emma",
       12085124,
       "int32",
-      "632128",
+      "931097",
       true
     ],
     [
@@ -114,7 +123,7 @@
       "EXP - Fie",
       12085252,
       "int32",
-      "1245420",
+      "1684117",
       true
     ],
     [
@@ -123,7 +132,7 @@
       "EXP - Fie",
       12578076,
       "int32",
-      "1245420",
+      "1684117",
       true
     ],
     [
@@ -132,7 +141,7 @@
       "EXP - Gaius",
       12085316,
       "int32",
-      "588589",
+      "874097",
       true
     ],
     [
@@ -141,7 +150,7 @@
       "EXP - Gaius",
       12578140,
       "int32",
-      "588589",
+      "874097",
       true
     ],
     [
@@ -150,7 +159,7 @@
       "EXP - Laura",
       12577820,
       "int32",
-      "619498",
+      "912477",
       true
     ],
     [
@@ -159,7 +168,7 @@
       "EXP - Laura",
       12084996,
       "int32",
-      "619498",
+      "912477",
       true
     ],
     [
@@ -204,7 +213,7 @@
       "EXP - Rean",
       12084804,
       "int64",
-      "2608210",
+      "3186097",
       true
     ],
     [
@@ -213,7 +222,7 @@
       "EXP - Rean",
       12577628,
       "int64",
-      "2608210",
+      "3186097",
       true
     ],
     [
@@ -240,7 +249,7 @@
       "EXP - Toval",
       12085828,
       "int32",
-      "1154025",
+      "1154370",
       true
     ],
     [
@@ -249,7 +258,7 @@
       "EXP - Toval",
       12578652,
       "int32",
-      "1154025",
+      "1154370",
       true
     ],
     [
@@ -258,7 +267,7 @@
       "Link EXP - Rean and Alisa",
       315266112,
       "int32",
-      "0",
+      "2000",
       true
     ],
     [
@@ -294,7 +303,7 @@
       "Link EXP - Rean and Elliot",
       315266116,
       "int32",
-      "1015",
+      "1515",
       true
     ],
     [
@@ -312,7 +321,7 @@
       "Link EXP - Rean and Emma",
       315266060,
       "int32",
-      "7000",
+      "7499",
       true
     ],
     [
@@ -321,7 +330,7 @@
       "Link EXP - Rean and Emma",
       315265120,
       "int32",
-      "7000",
+      "7499",
       true
     ],
     [
@@ -357,7 +366,7 @@
       "Link EXP - Rean and Gaius",
       315267644,
       "int32",
-      "0",
+      "4500",
       true
     ],
     [
@@ -384,7 +393,7 @@
       "Link EXP - Rean and Laura",
       315266120,
       "int32",
-      "1000",
+      "1501",
       true
     ],
     [
@@ -402,7 +411,7 @@
       "Link EXP - Rean and Machias",
       315266124,
       "int32",
-      "1000",
+      "1501",
       true
     ],
     [
@@ -492,12 +501,12 @@
       "Mira",
       12595100,
       "int64",
-      "689800",
+      "911723",
       true
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Alisa",
       12577664,
       "int16",
@@ -506,7 +515,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Claire",
       12578560,
       "int16",
@@ -515,7 +524,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Elliot",
       12577728,
       "int16",
@@ -524,7 +533,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Emma",
       12577920,
       "int16",
@@ -533,7 +542,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Fie",
       12578048,
       "int16",
@@ -542,7 +551,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Laura",
       12577792,
       "int16",
@@ -551,7 +560,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Machias",
       12577856,
       "int16",
@@ -560,7 +569,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Millium",
       12578176,
       "int16",
@@ -569,7 +578,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Rean",
       12577600,
       "int16",
@@ -578,7 +587,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Toval",
       12578624,
       "int16",
@@ -591,7 +600,7 @@
       "Sepith - Earth",
       12595036,
       "int32",
-      "8848",
+      "9108",
       true
     ],
     [
@@ -600,7 +609,7 @@
       "Sepith - Fire",
       12595044,
       "int32",
-      "7500",
+      "7249",
       true
     ],
     [
@@ -609,7 +618,7 @@
       "Sepith Mass",
       12595064,
       "int32",
-      "127",
+      "9040",
       true
     ],
     [
@@ -618,7 +627,7 @@
       "Sepith - Mirage",
       12595060,
       "int32",
-      "6909",
+      "9061",
       true
     ],
     [
@@ -627,7 +636,7 @@
       "Sepith - Space",
       12595056,
       "int32",
-      "9236",
+      "9042",
       true
     ],
     [
@@ -636,7 +645,7 @@
       "Sepith - Time",
       12595052,
       "int32",
-      "8170",
+      "9045",
       true
     ],
     [
@@ -645,7 +654,7 @@
       "Sepith - Water",
       12595040,
       "int32",
-      "7960",
+      "9092",
       true
     ],
     [
@@ -654,7 +663,7 @@
       "Sepith - Wind",
       12595048,
       "int32",
-      "9096",
+      "9057",
       true
     ]
   ]
