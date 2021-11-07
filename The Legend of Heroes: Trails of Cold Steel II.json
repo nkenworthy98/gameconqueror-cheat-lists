@@ -741,6 +741,24 @@
     [
       "=",
       false,
+      "Stats - Speed (SPD) - Rean",
+      12084792,
+      "int16",
+      "150",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Stats - Speed (SPD) - Rean",
+      12577616,
+      "int16",
+      "150",
+      true
+    ],
+    [
+      "=",
+      false,
       "Stats - Strength (STR) - Rean",
       12084780,
       "int16",
