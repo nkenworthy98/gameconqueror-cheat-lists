@@ -723,10 +723,19 @@
     [
       "=",
       false,
-      "Total EP - Laura",
+      "Stats - Total EP - Laura",
       12577790,
       "int16",
       "4000",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Stats - Total EP - Rean",
+      12577598,
+      "int16",
+      "1200",
       true
     ]
   ]
