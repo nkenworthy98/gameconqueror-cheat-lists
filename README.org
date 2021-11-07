@@ -63,6 +63,7 @@
 * The Legend of Heroes: Trails of Cold Steel II
 - Angler Points
 - Bonding Points
+- Current AP
 - EXP - Alisa
 - EXP - Claire
 - EXP - Elise
@@ -79,10 +80,14 @@
 - Link EXP - Rean and Alisa
 - Link EXP - Rean and Claire
 - Link EXP - Rean and Elliot
+- Link EXP - Rean and Emma
 - Link EXP - Rean and Fie
 - Link EXP - Rean and Gaius
+- Link EXP - Rean and Jusis
+- Link EXP - Rean and Laura
 - Link EXP - Rean and Machias
 - Link EXP - Rean and Millium
+- Link EXP - Rean and Sara
 - Link EXP - Rean and Sharon
 - Link EXP - Rean and Toval
 - Mira
@@ -96,6 +101,8 @@
 - Outside Battle Craft Points - Millium
 - Outside Battle Craft Points - Rean
 - Outside Battle Craft Points - Toval
+- Outside Battle EP - Laura
+- Outside Battle EP - Rean
 - Sepith - Earth
 - Sepith - Fire
 - Sepith Mass
@@ -104,6 +111,14 @@
 - Sepith - Time
 - Sepith - Water
 - Sepith - Wind
+- Stats - Arts Defense (ADF) - Rean
+- Stats - Arts Strength (ATS) - Rean
+- Stats - Defense (DEF) - Rean
+- Stats - Movement (MOV) - Rean
+- Stats - Speed (SPD) - Rean
+- Stats - Strength (STR) - Rean
+- Stats - Total EP - Laura
+- Stats - Total EP - Rean
 
 * The Legend of Heroes: Zero no Kiseki
 - DP (Detective Points)
