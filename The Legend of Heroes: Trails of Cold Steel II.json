@@ -6,7 +6,7 @@
       "Angler Points",
       12612944,
       "int32",
-      "4867",
+      "4960",
       true
     ],
     [
@@ -24,16 +24,7 @@
       "Current AP",
       11008500,
       "int32",
-      "114",
-      true
-    ],
-    [
-      "=",
-      false,
-      "EXP - Alisa",
-      12084868,
-      "int32",
-      "1314999",
+      "139",
       true
     ],
     [
@@ -42,16 +33,7 @@
       "EXP - Alisa",
       12577692,
       "int32",
-      "1314999",
-      true
-    ],
-    [
-      "=",
-      false,
-      "EXP - Claire",
-      12085764,
-      "int32",
-      "897504",
+      "1341436",
       true
     ],
     [
@@ -67,15 +49,6 @@
       "=",
       false,
       "EXP - Elise",
-      12085892,
-      "int32",
-      "855399",
-      true
-    ],
-    [
-      "=",
-      false,
-      "EXP - Elise",
       12578716,
       "int32",
       "855399",
@@ -85,27 +58,9 @@
       "=",
       false,
       "EXP - Elliot",
-      12084932,
-      "int64",
-      "992699",
-      true
-    ],
-    [
-      "=",
-      false,
-      "EXP - Elliot",
       12577756,
       "int64",
-      "992699",
-      true
-    ],
-    [
-      "=",
-      false,
-      "EXP - Emma",
-      12085124,
-      "int32",
-      "1072239",
+      "2372019",
       true
     ],
     [
@@ -114,16 +69,7 @@
       "EXP - Emma",
       12577948,
       "int32",
-      "1072239",
-      true
-    ],
-    [
-      "=",
-      false,
-      "EXP - Fie",
-      12085252,
-      "int32",
-      "1873749",
+      "1076264",
       true
     ],
     [
@@ -132,16 +78,7 @@
       "EXP - Fie",
       12578076,
       "int32",
-      "1873749",
-      true
-    ],
-    [
-      "=",
-      false,
-      "EXP - Gaius",
-      12085316,
-      "int32",
-      "1011039",
+      "1882779",
       true
     ],
     [
@@ -150,16 +87,7 @@
       "EXP - Gaius",
       12578140,
       "int32",
-      "1011039",
-      true
-    ],
-    [
-      "=",
-      false,
-      "EXP - Laura",
-      12084996,
-      "int32",
-      "1050819",
+      "1015730",
       true
     ],
     [
@@ -168,16 +96,7 @@
       "EXP - Laura",
       12577820,
       "int32",
-      "1050819",
-      true
-    ],
-    [
-      "=",
-      false,
-      "EXP - Machias",
-      12085060,
-      "int64",
-      "515465",
+      "1059849",
       true
     ],
     [
@@ -186,16 +105,7 @@
       "EXP - Machias",
       12577884,
       "int64",
-      "515465",
-      true
-    ],
-    [
-      "=",
-      false,
-      "EXP - Millium",
-      12085380,
-      "int32",
-      "584779",
+      "590105",
       true
     ],
     [
@@ -204,16 +114,7 @@
       "EXP - Millium",
       12578204,
       "int32",
-      "584779",
-      true
-    ],
-    [
-      "=",
-      false,
-      "EXP - Rean",
-      12084804,
-      "int64",
-      "3442039",
+      "628319",
       true
     ],
     [
@@ -222,16 +123,7 @@
       "EXP - Rean",
       12577628,
       "int64",
-      "3442039",
-      true
-    ],
-    [
-      "=",
-      false,
-      "EXP - Sharon",
-      12085700,
-      "int32",
-      "694210",
+      "3477999",
       true
     ],
     [
@@ -247,15 +139,6 @@
       "=",
       false,
       "EXP - Toval",
-      12085828,
-      "int32",
-      "1154370",
-      true
-    ],
-    [
-      "=",
-      false,
-      "EXP - Toval",
       12578652,
       "int32",
       "1154370",
@@ -264,10 +147,19 @@
     [
       "=",
       false,
+      "Level - Elliot",
+      12577752,
+      "int32",
+      "151",
+      true
+    ],
+    [
+      "=",
+      false,
       "Link EXP - Rean and Alisa",
       315266112,
       "int32",
-      "2000",
+      "0",
       true
     ],
     [
@@ -285,7 +177,7 @@
       "Link EXP - Rean and Claire",
       315266168,
       "int32",
-      "0",
+      "2451",
       true
     ],
     [
@@ -303,7 +195,7 @@
       "Link EXP - Rean and Elliot",
       315266116,
       "int32",
-      "1515",
+      "0",
       true
     ],
     [
@@ -321,7 +213,7 @@
       "Link EXP - Rean and Emma",
       315265120,
       "int32",
-      "7499",
+      "16843009",
       true
     ],
     [
@@ -330,7 +222,7 @@
       "Link EXP - Rean and Emma",
       315266060,
       "int32",
-      "7499",
+      "0",
       true
     ],
     [
@@ -357,7 +249,7 @@
       "Link EXP - Rean and Gaius",
       315266140,
       "int32",
-      "0",
+      "7499",
       true
     ],
     [
@@ -366,7 +258,7 @@
       "Link EXP - Rean and Gaius",
       315267644,
       "int32",
-      "4500",
+      "0",
       true
     ],
     [
@@ -375,7 +267,7 @@
       "Link EXP - Rean and Jusis",
       315265124,
       "int32",
-      "7499",
+      "16843009",
       true
     ],
     [
@@ -384,7 +276,7 @@
       "Link EXP - Rean and Jusis",
       315266252,
       "int32",
-      "7499",
+      "0",
       true
     ],
     [
@@ -393,7 +285,7 @@
       "Link EXP - Rean and Laura",
       315266120,
       "int32",
-      "1501",
+      "0",
       true
     ],
     [
@@ -411,7 +303,7 @@
       "Link EXP - Rean and Machias",
       315266124,
       "int32",
-      "1501",
+      "0",
       true
     ],
     [
@@ -429,7 +321,7 @@
       "Link EXP - Rean and Millium",
       315266144,
       "int32",
-      "0",
+      "2333",
       true
     ],
     [
@@ -447,7 +339,7 @@
       "Link EXP - Rean and Sara",
       315265144,
       "int32",
-      "7499",
+      "16843009",
       true
     ],
     [
@@ -456,7 +348,7 @@
       "Link EXP - Rean and Sara",
       315267212,
       "int32",
-      "7499",
+      "0",
       true
     ],
     [
@@ -465,7 +357,7 @@
       "Link EXP - Rean and Sharon",
       315266164,
       "int32",
-      "0",
+      "2000",
       true
     ],
     [
@@ -483,7 +375,7 @@
       "Link EXP - Rean and Toval",
       315266172,
       "int32",
-      "0",
+      "2058",
       true
     ],
     [
@@ -501,12 +393,12 @@
       "Mira",
       12595100,
       "int64",
-      "320723",
+      "325073",
       true
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Alisa",
       12577664,
       "int16",
@@ -515,7 +407,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Claire",
       12578560,
       "int16",
@@ -524,7 +416,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Elliot",
       12577728,
       "int16",
@@ -533,7 +425,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Emma",
       12577920,
       "int16",
@@ -542,16 +434,16 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Fie",
       12578048,
       "int16",
-      "184",
+      "200",
       true
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Laura",
       12577792,
       "int16",
@@ -560,7 +452,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Machias",
       12577856,
       "int16",
@@ -569,7 +461,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Millium",
       12578176,
       "int16",
@@ -578,16 +470,16 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Rean",
       12577600,
       "int16",
-      "51",
+      "200",
       true
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle Craft Points - Toval",
       12578624,
       "int16",
@@ -596,7 +488,7 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle EP - Laura",
       12577788,
       "int16",
@@ -605,11 +497,11 @@
     ],
     [
       "=",
-      false,
+      true,
       "Outside Battle EP - Rean",
       12577596,
       "int16",
-      "750",
+      "4000",
       true
     ],
     [
@@ -618,7 +510,7 @@
       "Sepith - Earth",
       12595036,
       "int32",
-      "10185",
+      "4993",
       true
     ],
     [
@@ -627,7 +519,7 @@
       "Sepith - Fire",
       12595044,
       "int32",
-      "8051",
+      "9156",
       true
     ],
     [
@@ -636,7 +528,7 @@
       "Sepith Mass",
       12595064,
       "int32",
-      "9736",
+      "10742",
       true
     ],
     [
@@ -645,7 +537,7 @@
       "Sepith - Mirage",
       12595060,
       "int32",
-      "9924",
+      "10638",
       true
     ],
     [
@@ -654,7 +546,7 @@
       "Sepith - Space",
       12595056,
       "int32",
-      "9857",
+      "10602",
       true
     ],
     [
@@ -663,7 +555,7 @@
       "Sepith - Time",
       12595052,
       "int32",
-      "9880",
+      "10626",
       true
     ],
     [
@@ -672,7 +564,7 @@
       "Sepith - Water",
       12595040,
       "int32",
-      "9758",
+      "10876",
       true
     ],
     [
@@ -681,12 +573,12 @@
       "Sepith - Wind",
       12595048,
       "int32",
-      "9744",
+      "7830",
       true
     ],
     [
       "=",
-      false,
+      true,
       "Stats - Arts Defense (ADF) - Rean",
       12577610,
       "int16",
@@ -695,25 +587,25 @@
     ],
     [
       "=",
-      false,
+      true,
       "Stats - Arts Strength (ATS) - Rean",
       12577608,
       "int16",
-      "2214",
+      "7000",
       true
     ],
     [
       "=",
-      false,
+      true,
       "Stats - Defense (DEF) - Rean",
       12577606,
       "int16",
-      "1473",
+      "1523",
       true
     ],
     [
       "=",
-      false,
+      true,
       "Stats - Movement (MOV) - Rean",
       12577618,
       "int16",
@@ -722,25 +614,25 @@
     ],
     [
       "=",
-      false,
+      true,
       "Stats - Speed (SPD) - Rean",
       12577616,
       "int16",
-      "116",
+      "400",
       true
     ],
     [
       "=",
-      false,
+      true,
       "Stats - Strength (STR) - Rean",
       12577604,
       "int16",
-      "2058",
+      "4000",
       true
     ],
     [
       "=",
-      false,
+      true,
       "Stats - Total EP - Laura",
       12577790,
       "int16",
@@ -749,11 +641,11 @@
     ],
     [
       "=",
-      false,
+      true,
       "Stats - Total EP - Rean",
       12577598,
       "int16",
-      "750",
+      "4000",
       true
     ]
   ]
