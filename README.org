@@ -71,12 +71,16 @@
 - EXP - Emma
 - EXP - Fie
 - EXP - Gaius
+- EXP - Jusis
 - EXP - Laura
 - EXP - Machias
 - EXP - Millium
 - EXP - Rean
 - EXP - Sharon
 - EXP - Toval
+- Level - Elliot
+- Level - Jusis
+- Level - Millium
 - Link EXP - Rean and Alisa
 - Link EXP - Rean and Claire
 - Link EXP - Rean and Elliot
