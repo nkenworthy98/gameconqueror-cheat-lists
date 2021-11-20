@@ -76,11 +76,18 @@
 - EXP - Machias
 - EXP - Millium
 - EXP - Rean
+- EXP - Sara
 - EXP - Sharon
 - EXP - Toval
+- Level - Alisa
 - Level - Elliot
+- Level - Emma
+- Level - Gaius
 - Level - Jusis
+- Level - Laura
+- Level - Machias
 - Level - Millium
+- Level - Sara
 - Link EXP - Rean and Alisa
 - Link EXP - Rean and Claire
 - Link EXP - Rean and Elliot
@@ -115,6 +122,7 @@
 - Sepith - Time
 - Sepith - Water
 - Sepith - Wind
+- Stats - Agility (AGL) - Rean
 - Stats - Arts Defense (ADF) - Rean
 - Stats - Arts Strength (ATS) - Rean
 - Stats - Defense (DEF) - Rean
